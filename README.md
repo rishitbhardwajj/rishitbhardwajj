@@ -5,14 +5,6 @@
   Aspiring Data Analyst | AI/ML Explorer | Turning Data into Insights 🚀
 </h3>
 
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=rishitbhardwajj&label=Profile%20Views&color=0e75b6&style=flat"
-    alt="Profile Views"
-/>
-</p>
-
 <p align="right">
   <img
     src="./140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
@@ -33,15 +25,6 @@
 - ⚡ Fun fact: I turn messy data into meaningful insights and curiosity into coding projects! 🐍📊🚀
 
 <br clear="both" />
-
----
-
-### 🏆 GitHub Profile Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rishitbhardwajj&theme=tokyonight&no-frame=true&margin-w=8" alt="GitHub Profile Trophies" />
-</p>
-
 ---
 
 ### 🤝 Connect With Me
